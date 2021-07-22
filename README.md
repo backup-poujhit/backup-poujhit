@@ -1,6 +1,6 @@
 - 👋 Hi, Im Poujhit. This is my backup github account. Main account [here](https://github.com/Poujhit)
 - 👀 I’m a Software developer proficient in application development. 
--✨ I’m currently working as frontend intern in Intugine Technologies.
+- ✨ I’m currently working as frontend intern in Intugine Technologies.
 - Favourite technology - React, flutter, react native
 
 <!---
