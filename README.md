@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poujhit
-- 👀 I’m interested in Mobile and Web Development. 
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Flutter and React Projects.
+- 👋 Hi, Im Poujhit. This is my backup github account. Main account [here](https://github.com/Poujhit)
+- 👀 I’m a Software developer proficient in application development. 
+-✨ I’m currently working as frontend intern in Intugine Technologies.
+- Favourite technology - React, flutter, react native
 
 <!---
 backup-poujhit/backup-poujhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
