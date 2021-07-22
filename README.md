@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poujhit
-- 👀 I’m interested in Mobile and Web Development, mainly Frontend
+- 👀 I’m interested in Mobile and Web Development. 
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Flutter and React Projects.
 
